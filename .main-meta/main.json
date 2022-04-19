@@ -4,7 +4,7 @@
     "content": {
         "metaDataVersion": "1.3.0",
         "name": "com.microchip.mcu8.mplabx.project.avr64dd32-getting-started-with-ccl-mplabx",
-        "version": "1.0.1",
+        "version": "1.0.2",
         "displayName": "Configurable Custom Logic (CCL) in Three Different Modes Using the AVR64DD32 Microcontroller",
         "projectName": "avr64dd32-getting-started-with-ccl-mplabx",
         "shortDescription": "This repository contains 3 bare metal code examples that show how to use the CCL peripheral of the AVR64DD32 device in different modes",
